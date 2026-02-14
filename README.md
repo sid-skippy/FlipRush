@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![FlipRush Banner](assets/banner.png)
-
 **A fast-paced gravity flip arcade game built with Flutter**
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.0%2B-02569B?logo=flutter)](https://flutter.dev)
@@ -31,22 +29,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Gameplay | Power-Ups | Game Over |
-|----------|-----------|-----------|
-| ![Gameplay](screenshots/gameplay.png) | ![Power-ups](screenshots/powerups.png) | ![Game Over](screenshots/gameover.png) |
-
-| Start Screen | Settings | Skins |
-|--------------|----------|-------|
-| ![Start](screenshots/start.png) | ![Settings](screenshots/settings.png) | ![Skins](screenshots/skins.png) |
-
-</div>
-
----
-
 ## 🎮 How to Play
 
 1. **Tap anywhere** on the screen to flip gravity
@@ -63,16 +45,6 @@
 | ⏱️ | **Slow-Mo** | Slows down time for 8 seconds | 15 coins |
 | 🔽 | **Shrink** | Makes ball smaller for 8 seconds | 12 coins |
 | ⭐ | **Double Points** | 2x score multiplier for 8 seconds | 20 coins |
-
----
-
-## 🚀 Download
-
-### Android
-- **Latest Release**: [Download APK](https://github.com/yourusername/fliprush/releases/latest)
-- **Minimum Android Version**: Android 5.0 (API 21)
-
-*Coming soon to Google Play Store*
 
 ---
 
@@ -113,14 +85,6 @@ flutter build apk --split-per-abi --release
 
 # Output location: build/app/outputs/flutter-apk/
 ```
-
-### Building for iOS (Future)
-
-```bash
-flutter build ios --release
-```
-
----
 
 ## 📁 Project Structure
 
@@ -203,19 +167,6 @@ Contributions are welcome! Here's how you can help:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-### Feature Ideas
-
-- [ ] Leaderboard integration
-- [ ] Combo system
-- [ ] Near-miss bonus rewards
-- [ ] Daily challenges
-- [ ] Achievement system
-- [ ] Color themes
-- [ ] Ghost mode (replay best run)
-- [ ] Share score functionality
-
-See [STAND_OUT_FEATURES.md](docs/STAND_OUT_FEATURES.md) for detailed feature proposals.
-
 ---
 
 ## 🐛 Known Issues
@@ -244,15 +195,6 @@ Found a bug? [Open an issue](https://github.com/yourusername/fliprush/issues/new
 - 🎨 Ball skins
 
 See [CHANGELOG.md](CHANGELOG.md) for complete version history.
-
----
-
-## 📊 Performance
-
-- **APK Size**: ~8MB (optimized) / ~20MB (unoptimized)
-- **RAM Usage**: ~60MB average
-- **Frame Rate**: Solid 60 FPS on most devices
-- **Battery**: Optimized for low battery consumption
 
 ---
 
@@ -289,9 +231,7 @@ SOFTWARE.
 ## 👤 Author
 
 **Siddhartha Gupta**
-- Student ID: 24BCE5063
-- Institution: VIT Chennai
-- Club: Android Club
+VIT Chennai - Android Club
 
 ---
 
@@ -301,24 +241,6 @@ SOFTWARE.
 - Google Fonts for typography
 - AudioPlayers package maintainers
 - Android Club at VIT Chennai
-
----
-
-## 📞 Support
-
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/fliprush/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/fliprush/discussions)
-
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/fliprush&type=Date)](https://star-history.com/#yourusername/fliprush&Date)
-
----
 
 <div align="center">
 
