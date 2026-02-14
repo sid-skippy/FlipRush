@@ -25,6 +25,10 @@
 
 ---
 
+## 📸 Screenshots
+<img src="4.jpeg" width="230"/>  ___  <img src="3.jpeg" width="230"/>  ___  <img src="2.jpeg" width="230"/>  ___  <img src="1.jpeg" width="230"/>
+
+---
 ## 🎮 How to Play
 
 1. **Tap anywhere** on the screen to flip gravity
