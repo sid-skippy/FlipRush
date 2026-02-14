@@ -41,10 +41,10 @@
 
 | Icon | Name | Effect | Cost |
 |------|------|--------|------|
-| 🛡️ | **Shield** | Protects from one collision | 10 coins |
-| ⏱️ | **Slow-Mo** | Slows down time for 8 seconds | 15 coins |
-| 🔽 | **Shrink** | Makes ball smaller for 8 seconds | 12 coins |
-| ⭐ | **Double Points** | 2x score multiplier for 8 seconds | 20 coins |
+| 🛡️ | **Shield** | Protects from one collision for 7 seconds | 5 coins |
+| ⏱️ | **Slow-Mo** | Slows down time for 5 seconds | 3 coins |
+| 🔽 | **Shrink** | Makes ball smaller for 5 seconds | 3 coins |
+| ⭐ | **Double Points** | 2x score multiplier for 5 seconds | 4 coins |
 
 ---
 
@@ -148,25 +148,6 @@ dev_dependencies:
 
 2. **App Icon**
    - `assets/icon.png` - 1024x1024px PNG
-
-### Asset Optimization Tips
-
-- Use OGG format for audio (smaller size)
-- Compress images with TinyPNG
-- Keep audio files under 100KB each
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
 ---
 
 ## 🐛 Known Issues
