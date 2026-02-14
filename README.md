@@ -14,14 +14,14 @@
 
 ## 🌟 Features
 
-- 🎯 **One-Tap Controls** - Simple yet challenging gravity-flip mechanics
-- ⚡ **Smooth 60 FPS Gameplay** - Optimized performance for all devices
-- 🛡️ **Power-Up System** - Shield, Slow-Mo, Shrink, and Double Points
-- 🪙 **Coin Economy** - Collect coins to purchase power-ups mid-game
-- 🎨 **Customizable Ball Skins** - Unlock unique gradient designs
-- 📊 **High Score Tracking** - Beat your personal best
-- ⚙️ **Settings** - Adjust sound effects and customize experience
-- 🌈 **Visual Effects** - Particle explosions, tap ripples, and smooth animations
+- **One-Tap Controls** - Simple yet challenging gravity-flip mechanics
+- **Smooth 60 FPS Gameplay** - Optimized performance for all devices
+- **Power-Up System** - Shield, Slow-Mo, Shrink, and Double Points
+- **Coin Economy** - Collect coins to purchase power-ups mid-game
+- **Customizable Ball Skins** - Unlock unique gradient designs
+- **High Score Tracking** - Beat your personal best
+- **Settings** - Adjust sound effects and customize experience
+- **Visual Effects** - Particle explosions, tap ripples, and smooth animations
 
 ---
 
@@ -157,19 +157,19 @@ Found a bug? [Open an issue](https://github.com/yourusername/fliprush/issues/new
 ## 📝 Changelog
 
 ### Version 1.0.7 (Latest)
-- ✅ Removed background music system
-- ✅ Removed ball trail effect
-- ✅ Fixed coin sound (now plays on collection)
-- ✅ Fixed slow-mo sound effect
-- ✅ Code optimization (removed unused functions)
-- ✅ Performance improvements
+- Removed background music system
+- Removed ball trail effect
+- Fixed coin sound (now plays on collection)
+- Fixed slow-mo sound effect
+- Code optimization (removed unused functions)
+- Performance improvements
 
 ### Version 1.0.0
-- 🎉 Initial release
-- ⚡ Core gravity-flip mechanics
-- 🛡️ Power-up system
-- 🪙 Coin economy
-- 🎨 Ball skins
+- Initial release
+- Core gravity-flip mechanics
+- Power-up system
+- Coin economy
+- Ball skins
 
 See [CHANGELOG.md](CHANGELOG.md) for complete version history.
 
