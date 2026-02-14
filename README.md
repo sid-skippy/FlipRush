@@ -21,11 +21,9 @@
 - 🛡️ **Power-Up System** - Shield, Slow-Mo, Shrink, and Double Points
 - 🪙 **Coin Economy** - Collect coins to purchase power-ups mid-game
 - 🎨 **Customizable Ball Skins** - Unlock unique gradient designs
-- 🔊 **Dynamic Sound Effects** - Immersive audio feedback
 - 📊 **High Score Tracking** - Beat your personal best
 - ⚙️ **Settings** - Adjust sound effects and customize experience
 - 🌈 **Visual Effects** - Particle explosions, tap ripples, and smooth animations
-- 📱 **Lightweight** - Small APK size (~8MB optimized)
 
 ---
 
