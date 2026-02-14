@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 
-[Features](#features) • [Download](#download) • [Screenshots](#screenshots) • [Building](#building) • [Contributing](#contributing)
-
 </div>
 
 ---
